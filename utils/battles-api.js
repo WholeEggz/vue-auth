@@ -1,8 +1,8 @@
 import axios from 'axios';
 import { getAccessToken } from './auth';
 
-// const BASE_URL = 'http://localhost:3333';
-const BASE_URL = 'https://3333-dot-3108559-dot-devshell.appspot.com';
+const BASE_URL = 'http://localhost:3333';
+// const BASE_URL = 'https://3333-dot-3108559-dot-devshell.appspot.com';
 
 export {getPublicStartupBattles, getPrivateStartupBattles};
 
